@@ -1,0 +1,23 @@
+
+
+/* Style for the GitHub icon (black) */
+.bi-github {
+    color: black;
+  }
+  
+  /* Style for the Envelope icon (red) */
+  .bi-envelope {
+    color: red;
+  }
+  
+  /* Style for the LinkedIn icon (blue) */
+  .bi-linkedin {
+    color: blue;
+  }
+  
+  /* Add hover effect for better user experience */
+  .bi:hover {
+    opacity: 0.7;
+    transition: 0.3s ease;
+  }
+  
